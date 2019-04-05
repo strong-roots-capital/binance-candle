@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/binance-candle",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Interface for a Binance candle",
   "main": "dist/binance-candle.js",
   "types": "dist/binance-candle.d.ts",
