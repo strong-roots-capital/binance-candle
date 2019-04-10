@@ -11,13 +11,13 @@ npm install @strong-roots-capital/binance-candle
 ## Use
 
 ```typescript
-import { binanceCandle } from '@strong-roots-capital/binance-candle'
+import binanceCandle from '@strong-roots-capital/binance-candle'
 
 /**
  * An atomic unit of time-series data as returned by the Binance
  * exchange API.
  */
-export default interface BinanceCandle {
+interface BinanceCandle {
     /**
      * Time of current candle open.
      */
